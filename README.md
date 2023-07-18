@@ -1,3 +1,3 @@
 **Hey, I'm Marvin** 👋
 
-I'm a frontend developer by ❤️. I currently enjoy working on holistic digital concepts and brand development projects for both large and small clients at [BERGWERK](https://www.bergwerk.ag/).
+I'm a frontend developer by ❤️. I currently enjoy working as specialist for digital communication and brand building for both large and small clients at [medienimpuls](https://www.medienimpuls.com/).
